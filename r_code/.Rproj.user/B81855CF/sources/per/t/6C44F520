@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598988345607.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1141191349",
+    "id" : "6C44F520",
+    "lastKnownWriteTime" : 1599007449,
+    "last_content_update" : 1599007449268,
+    "path" : "C:/Users/Maven Road/OneDrive - Escuela Superior Politécnica del Litoral/MECE/10_TIME SERIES ANALYSIS/Project/ucm_project/model.R",
+    "project_path" : "model.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
